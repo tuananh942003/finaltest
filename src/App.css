@@ -1,0 +1,10 @@
+.Web {
+  width: 50%;
+  height: 700px;
+  background-color: rgb(182, 222, 247);
+  margin: auto;
+}
+
+ .title {
+  text-align: center;
+}
